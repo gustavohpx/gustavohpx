@@ -45,18 +45,8 @@
 
 ### 📊 GitHub
 
-<!-- Stats + languages via self-hosted jstrieb/github-stats (includes private repos).
-     Each card is embedded twice — GitHub shows the dark variant to dark-mode
-     viewers and the light variant to light-mode viewers. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview" />
-  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub overview" />
-  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top languages" />
-  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=3" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=4" alt="GitHub streak" />
 </p>
 
 ---
