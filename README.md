@@ -46,19 +46,13 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=2" alt="GitHub streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
 </p>
 
-<!--
-  Stats & top-languages cards: the PUBLIC github-readme-stats instance is frequently paused
-  (HTTP 503). Once you self-host your own instance (see profile setup notes), replace
-  YOUR-INSTANCE below and uncomment:
-
-  <p align="center">
-    <img height="165" src="https://YOUR-INSTANCE/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://YOUR-INSTANCE/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
-  </p>
--->
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=2" alt="GitHub streak" />
+</p>
 
 ---
 
