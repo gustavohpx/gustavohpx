@@ -46,7 +46,7 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=2" alt="GitHub streak" />
 </p>
 
 <!--
