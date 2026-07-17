@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=tokyonight&v=2" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=3" alt="GitHub streak" />
 </p>
 
 ---
