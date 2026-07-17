@@ -46,12 +46,12 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark&v=2" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=tokyonight&v=2" alt="GitHub streak" />
 </p>
 
 ---
