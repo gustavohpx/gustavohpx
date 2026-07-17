@@ -5,13 +5,29 @@
 </p>
 
 <p align="center">
-  I build production software that real users and businesses depend on. My work spans a
-  multi-tenant <b>B2B SaaS for audit &amp; compliance</b> — designed and built from the ground
-  up with RBAC, an immutable event-sourced audit trail, and a strong security &amp; data-privacy
-  focus — and <b>end-to-end traceability</b> connecting the physical floor, sensors, SAP, and
-  internal systems in high-volume industrial plants. I'm comfortable across the full lifecycle:
-  requirements, architecture, development, testing, and deployment.
+  Full-stack engineer focused on enterprise systems, integrations, and data. I ship
+  production software that real users and businesses depend on — and one thread runs through
+  all of it: <b>traceability, end to end</b>, whether that's an immutable audit trail inside a
+  compliance platform or tracking a physical batch across a plant floor. I work across the
+  full lifecycle: requirements, architecture, development, testing, and deployment.
 </p>
+
+---
+
+### 🚀 Featured work
+
+- **Themis — B2B SaaS for audit &amp; compliance.** Designed and built from the ground up:
+  multi-tenant, RBAC, and an <b>event-sourced immutable audit trail</b> that makes every
+  business action fully traceable and reconstructable. Strong security &amp; data-privacy focus.
+
+- **Data Farm — real-time industrial monitoring &amp; IoT.** Monitoring, remote control, and
+  predictive models across <b>~200 poultry sheds</b>, integrating field devices over serial/IoT
+  with a real-time dashboard and anomaly alerts — driving <b>estimated feed savings of
+  R$18M+/year (~US$3M+)</b>.
+
+- **Plant-floor traceability &amp; SAP integrations.** End-to-end batch traceability on a
+  high-volume production line — <b>RFID</b> truck identification, sensor tracking along the
+  conveyors, and <b>SAP</b> integration surfacing each batch in real time.
 
 ---
 
@@ -30,13 +46,19 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark" alt="GitHub streak" />
 </p>
+
+<!--
+  Stats & top-languages cards: the PUBLIC github-readme-stats instance is frequently paused
+  (HTTP 503). Once you self-host your own instance (see profile setup notes), replace
+  YOUR-INSTANCE below and uncomment:
+
+  <p align="center">
+    <img height="165" src="https://YOUR-INSTANCE/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://YOUR-INSTANCE/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
+  </p>
+-->
 
 ---
 
