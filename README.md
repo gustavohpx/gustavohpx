@@ -45,17 +45,18 @@
 
 ### 📊 GitHub
 
+<!-- Stats + languages via self-hosted jstrieb/github-stats (includes private repos).
+     Each card is embedded twice — GitHub shows the dark variant to dark-mode
+     viewers and the light variant to light-mode viewers. -->
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview" />
+  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub overview" />
+  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/gustavohpx/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top languages" />
 </p>
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=tokyonight&v=2" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavohpx/github-weekly-lines/main/generated/weekly-lines.svg" alt="Weekly lines changed" />
 </p>
 
 ---
