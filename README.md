@@ -16,11 +16,11 @@
 
 ### 🚀 Featured work
 
-- **Themis — B2B SaaS for audit &amp; compliance.** Designed and built from the ground up:
+- **B2B SaaS for audit &amp; compliance.** Designed and built from the ground up:
   multi-tenant, RBAC, and an <b>event-sourced immutable audit trail</b> that makes every
   business action fully traceable and reconstructable. Strong security &amp; data-privacy focus.
 
-- **Data Farm — real-time industrial monitoring &amp; IoT.** Monitoring, remote control, and
+- **Real-time industrial monitoring &amp; IoT.** Monitoring, remote control, and
   predictive models across <b>~200 poultry sheds</b>, integrating field devices over serial/IoT
   with a real-time dashboard and anomaly alerts — driving <b>estimated feed savings of
   R$18M+/year (~US$3M+)</b>.
