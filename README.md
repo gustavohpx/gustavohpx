@@ -28,12 +28,12 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavohpx&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohpx&layout=compact&hide_border=true&theme=dark&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=dark" height="165" />
 </p>
 
 ---
