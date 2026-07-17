@@ -54,6 +54,10 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohpx&hide_border=true&theme=tokyonight&v=2" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavohpx/github-weekly-lines/main/generated/weekly-lines.svg" alt="Weekly lines changed" />
+</p>
+
 ---
 
 ### 📫 Get in touch
